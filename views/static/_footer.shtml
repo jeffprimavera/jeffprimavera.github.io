@@ -1,0 +1,17 @@
+<!-- Footer Section -->
+<footer>
+	<div class="container-fluid">
+		<div class="row">
+			<div class="col-md-12 text-center" style="padding: 15px; color: #fff; width: 100%; background:#2a2a2a">
+				<h5>Footer Section</h5>
+			</div>
+		</div>
+	</div>
+</footer><!-- End Footer Section -->
+<a id="back2Top" class="scroll-top-arrow" href="javascript:void(0);" style="display: block;"><i class="ti-arrow-up"></i></a>
+<script type="text/javascript" src="includes/js/jquery.min.js"></script>
+<script type="text/javascript" src="includes/js/wow.min.js"></script>
+<script type="text/javascript" src="includes/js/typed.min.js"></script>
+<script type="text/javascript" src="includes/js/particles.min.js"></script>
+<script type="text/javascript" src="includes/js/swiper.min.js"></script>
+<script type="text/javascript" src="includes/js/custom-script.js"></script>
